@@ -1,14 +1,11 @@
 # Hi, I'm Shahroz.
 
-> Technical Account Manager integrating AI Agents to solve repetitive business workflows.
+> Technical Account Manager integrating AI Agents to solve repetitive business workflows. Background in Aerospace,   
+Self-taught and currently focused on AI Engineering, transitioning into work I truly care about!
 
 ### Building Now
 **Agentic CRO Engine**  
 An internal tool that autonomously optimizes conversion rate for landing pages.
-
-### Background
-**Background in Aerospace.**  
-Self-taught and deeply focused on AI Engineering. I'm transitioning into work I truly care about!
 
 ### Production Stack
 

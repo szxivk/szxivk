@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Shahroz.
 
-<!--
-**szxivk/szxivk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Technical Account Manager integrating AI Agents to solve repetitive business workflows.
 
-Here are some ideas to get you started:
+### Building Now
+**Agentic CRO Engine**  
+An internal tool that autonomously optimizes conversion rate for landing pages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Background
+**Background in Aerospace.**  
+Self-taught and deeply focused on AI Engineering. I'm transitioning into work I truly care about!
+
+### Production Stack
+
+| Category | Technologies |
+|----------|--------------|
+| **AI Stack** | LangGraph, RAG Pipeline, Multi-Modal LLMs |
+| **Backend** | Python (FastAPI, Pydantic) |
+| **Data** | PostgreSQL, Vector Stores (Supabase) |
+| **Infra** | Docker, Git |
+
+---
+
+[Kaggle](https://kaggle.com/szxivk) • [LinkedIn](https://www.linkedin.com/in/shahroz-ahmad-khan/)

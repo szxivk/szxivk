@@ -1,20 +1,22 @@
 # Hi, I'm Shahroz.
 
-> Technical Account Manager integrating AI Agents to solve repetitive business workflows. Background in Aerospace,   
-Self-taught and currently focused on AI Engineering, transitioning into work I truly care about!
+> Building AI agents and automation systems that solve real operational problems.
+> Background in Aerospace Engineering. Currently focused on agentic AI.
 
 ### Building Now
-**Agentic CRO Engine**  
-An internal tool that autonomously optimizes conversion rate for landing pages.
 
-### Production Stack
+**Agentic CRO Engine**
+An autonomous system that analyses conversion workflows using LangGraph and RAG,
+and surfaces structured recommendations — without manual digging.
+
+### Stack
 
 | Category | Technologies |
 |----------|--------------|
-| **AI Stack** | LangGraph, RAG Pipeline, Multi-Modal LLMs |
+| **AI** | LangGraph, RAG, Multi-Modal LLMs |
 | **Backend** | Python (FastAPI, Pydantic) |
 | **Data** | PostgreSQL, Vector Stores (Supabase) |
-| **Infra** | Docker, Git |
+| **Infra** | Git |
 
 ---
 

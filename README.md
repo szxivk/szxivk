@@ -1,4 +1,4 @@
-# About Me
+# Shahroz Ahmad Khan
 Full-stack engineer with a background in aerospace engineering. I am currently building a pre-launch e-commerce platform for a startup in the UAE.
 
 ## Tech Stack
@@ -6,7 +6,6 @@ Full-stack engineer with a background in aerospace engineering. I am currently b
 
 ## GitHub Stats
 <div>
-  <img src="https://github-readme-stats.shion.dev/api?username=szxivk&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=szxivk&theme=vue-dark&hide_border=false" alt="GitHub Streak" />
 </div>
 

@@ -12,6 +12,3 @@ Full-stack engineer with a background in aerospace engineering. I am currently b
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahroz-ahmad-khan/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/szopezpz)
-
----
-![Profile Views](https://komarev.com/ghpvc/?username=szxivk&icon=0&color=0&label=PROFILE+VIEWS)
